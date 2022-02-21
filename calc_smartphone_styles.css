@@ -1,9 +1,9 @@
 .viewscreen {
     display: flex;
     flex-direction: column;
-    background-color: black;
-    /* background: linear-gradient(#25364f,#4d71a5, #9bc4ff); */
-    /* background: linear-gradient(#4f2a25,#a5754d, #ffe89b); */
+/*     background-color: black; */
+    background: linear-gradient(#25364f,#4d71a5, #9bc4ff);
+/*     background: linear-gradient(#4f2a25,#a5754d, #ffe89b); */
 
 
     align-items: center;
